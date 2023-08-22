@@ -89,7 +89,7 @@
             "value": "ncpladmin"
         },
         "adminPassword": {
-            "value": "Ncpladminadmin"
+            "value": "Ncpladmin@123"
         },
         "patchMode": {
             "value": "AutomaticByOS"
